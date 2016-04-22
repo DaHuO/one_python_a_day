@@ -1,2 +1,3 @@
 # one_python_a_day
-small questions of python
+Small questions of python
+Questions from `https://github.com/Yixiaohan/show-me-the-code` 
