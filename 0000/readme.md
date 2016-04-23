@@ -5,6 +5,6 @@ This is a simple program can be used to add a number in the right up of a pictur
 
 The command to run the program is `python addNumber.py pic_file number_to_add`
 
-Reference:
+Reference: 
 `http://outofmemory.cn/code-snippet/6640/python-draw-chinese-text-with-pil`
-`http://www.cnblogs.com/apexchu/p/4231041.html` 
+`http://www.cnblogs.com/apexchu/p/4231041.html`

@@ -35,7 +35,7 @@ def getNumberLength(number):
 if __name__ == "__main__":
     image_name = 'test.png'
     number = 0
-    if len(sys.argv) == 1:
+    if len(sys.argv) != 3:
         pass
     else:
         image_name = sys.argv[1]
