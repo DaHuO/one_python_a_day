@@ -1,6 +1,8 @@
 # -*- coding: UTF-8 -*-
 
 import random
+
+
 def activationCode():
     code_length = 6
     code_number = 200
